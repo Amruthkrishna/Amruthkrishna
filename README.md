@@ -20,7 +20,7 @@ I'm always curious to learn new things, explore projects, and improve my problem
 
 ### 🎮 Number Guessing Game  
 A simple and fun game made with HTML, CSS, and JavaScript  
-🔗 [Live Demo](https://amruthkrishna.github.io/guess-the-number)
+🔗 [Live Demo](https://amruthkrishna.github.io/Number-guessing-game/)
 
 More projects coming soon...
 
@@ -28,7 +28,7 @@ More projects coming soon...
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](www.linkedin.com/in/amruthkrishna8)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amruthkrishna8)
 - 📸 [Instagram](https://instagram.com/_amruthkrishna)
 - 💻 [GitHub](https://github.com/Amruthkrishna)
 
