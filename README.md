@@ -18,6 +18,13 @@ I'm always curious to learn new things, explore projects, and improve my problem
 
 ## 🔨 Projects
 
+### 🌦️ Weather App  
+A real-time weather app that shows current weather and hourly forecasts using the OpenWeatherMap API.  
+- Backend handled using Node.js & Express  
+- Deployed with GitHub Pages (Frontend) and Render (Backend)  
+🔗 [Live Demo](https://amruthkrishna.github.io/Weather-app)  
+💻 [Source Code](https://github.com/Amruthkrishna/Weather-app)
+
 ### ✅ To-Do List App  
 A clean and responsive to-do list where you can add, delete, and mark tasks as completed.  
 Built with HTML, CSS, and JavaScript with Local Storage support.  
@@ -33,8 +40,8 @@ A simple and fun game made with HTML, CSS, and JavaScript
 
 ## 📫 Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amruthkrishna8)
-- 📸 [Instagram](https://instagram.com/_amruthkrishna)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/amruthkrishna8)  
+- 📸 [Instagram](https://instagram.com/_amruthkrishna)  
 - 💻 [GitHub](https://github.com/Amruthkrishna)
 
 ---
