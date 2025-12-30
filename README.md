@@ -1,49 +1,83 @@
-# 👋 Hello, I'm Amruth Krishna
+# 👋 Hi, I'm Amruth Krishna
 
-🎓 2nd-year IT student | 💻 Aspiring Full Stack Developer | 🌱 Passionate about web development and programming
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=36BCF7&width=500&lines=Java+Backend+Developer;Linux+%26+Systems+Enthusiast;Spring+Boot+Learner" />
+</p>
 
----
-
-## 🚀 About Me
-
-I'm currently learning full stack development and love building web applications using:
-
-- 🌐 Frontend: HTML, CSS, JavaScript  
-- 🧠 Backend: Node.js, Python, Django  
-- 💻 Programming: C, C++, Java (basics)  
-
-I'm always curious to learn new things, explore projects, and improve my problem-solving skills.
+🎓 Computer Science Engineering Student  
+☕ Backend Engineering • 🐧 Linux • 🌱 Spring Boot
 
 ---
 
-## 🔨 Projects
+## 👨‍💻 About Me
 
-### 🌦️ Weather App  
-A real-time weather app that shows current weather and hourly forecasts using the OpenWeatherMap API.  
-- Backend handled using Node.js & Express  
-- Deployed with GitHub Pages (Frontend) and Render (Backend)  
-🔗 [Live Demo](https://amruthkrishna.github.io/Weather-app)  
-💻 [Source Code](https://github.com/Amruthkrishna/Weather-app)
+I’m a CSE student focused on **backend engineering and system-level understanding**.  
+My primary interest lies in building **reliable Java backends** and learning how systems work beyond just writing code.
 
-### ✅ To-Do List App  
-A clean and responsive to-do list where you can add, delete, and mark tasks as completed.  
-Built with HTML, CSS, and JavaScript with Local Storage support.  
-🔗 [Live Demo](https://amruthkrishna.github.io/To-do-List-project/)  
-💻 [Source Code](https://github.com/Amruthkrishna/To-do-List-project)
+I value:
+- strong fundamentals
+- clean, readable logic
+- understanding *why* things work
+
+Currently focusing on:
+- Core Java (OOP, Collections, Streams, Exceptions)
+- Linux fundamentals & system concepts
+- Spring Boot for backend development
+
+---
+
+## 🧰 Tech Stack
+
+### ☕ Programming
+- Java (Core Java, OOP)
+- C (system-level basics)
+
+### 🧠 Backend
+- Spring Boot (learning)
+- Java-based backend concepts
+
+### 🐧 Systems & Tools
+- Linux (CLI, permissions, processes)
+- Git & GitHub
+- VS Code
+
+---
+
+## 🚀 Projects
+
+### 🌦️ Weather Application  
+A backend-oriented application focusing on API handling and clean separation of concerns.  
+Currently being refactored towards a **Java / Spring-based backend**.  
+- 💻 Code: https://github.com/Amruthkrishna/Weather-app  
+
+---
+
+### ✅ To-Do List Application  
+A simple application focusing on logic, state handling, and clean structure.  
+Planned backend version using **Spring Boot**.  
+- 💻 Code: https://github.com/Amruthkrishna/To-do-List-project  
+
+---
 
 ### 🎮 Number Guessing Game  
-A simple and fun game made with HTML, CSS, and JavaScript  
-🔗 [Live Demo](https://amruthkrishna.github.io/Number-guessing-game/)  
-💻 [Source Code](https://github.com/Amruthkrishna/Number-guessing-game)
+A logic-driven project to strengthen control flow and program structure.  
+- 💻 Code: https://github.com/Amruthkrishna/Number-guessing-game  
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/amruthkrishna8)  
-- 📸 [Instagram](https://instagram.com/_amruthkrishna)  
-- 💻 [GitHub](https://github.com/Amruthkrishna)
+- 💼 LinkedIn: https://www.linkedin.com/in/amruthkrishna8  
+- 💻 GitHub: https://github.com/Amruthkrishna  
 
 ---
 
-> "Every expert was once a beginner — I'm just getting started."
+> Building strong fundamentals today for scalable systems tomorrow.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amruthkrishna&show_icons=true&theme=transparent" height="160"/>
+</p>
