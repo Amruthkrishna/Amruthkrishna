@@ -1,8 +1,22 @@
 # 👋 Hi, I'm Amruth Krishna
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=36BCF7&width=500&lines=Java+Backend+Developer;Linux+%26+Systems+Enthusiast;Spring+Boot+Learner" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    font=JetBrains+Mono
+    &size=28
+    &duration=3500
+    &pause=1500
+    &color=58A6FF
+    &width=700
+    &lines=Java+Backend+Engineering;
+    Linux+%26+Systems+Enthusiast;
+    Spring+Boot+%7C+Building+Depth"
+  />
 </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:58A6FF,100:9BE9A8" />
+
+
 
 🎓 Computer Science Engineering Student  
 ☕ Backend Engineering • 🐧 Linux • 🌱 Spring Boot
