@@ -75,8 +75,3 @@ A logic-driven project to strengthen control flow and program structure.
 > Building strong fundamentals today for scalable systems tomorrow.
 
 ---
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amruthkrishna&show_icons=true&theme=transparent" />
-
