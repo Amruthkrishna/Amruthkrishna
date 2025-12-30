@@ -76,8 +76,9 @@ A logic-driven project to strengthen control flow and program structure.
 
 ---
 
+---
+
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amruthkrishna&show_icons=true&theme=transparent" height="160"/>
-</p>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Amruthkrishna&show_icons=true&theme=transparent" />
+
